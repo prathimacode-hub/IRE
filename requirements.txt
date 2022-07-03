@@ -8,10 +8,11 @@ plotly==5.5.0
 plotly-express==0.4.1
 plotting==0.0.7
 extraction==0.3
-pygdal==3.5.0.3
+pygdal==3.4.0.10
 
 
-pygdal==3.2.2.10
+#pygdal==3.5.0.3
+#pygdal==3.2.2.10
 #gdal==3.5.0
 #matplotlib>=3.2.2
 
