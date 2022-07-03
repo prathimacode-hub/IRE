@@ -8,4 +8,4 @@ plotly==5.5.0
 plotly-express==0.4.1
 plotting=0.0.7
 extraction==0.3
-gdal==3.3.2
+gdal==3.5.0
