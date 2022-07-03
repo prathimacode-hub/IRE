@@ -7,6 +7,6 @@ matplotlib==3.5.2
 streamlit==1.10.0
 plotly==5.5.0
 plotly-express==0.4.1
-plotting=0.0.7
+plotting==0.0.7
 extraction==0.3
 #gdal==3.5.0
