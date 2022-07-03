@@ -11,5 +11,7 @@ extraction==0.3
 streamlit_folium==0.4.0
 spacy==3.2
 spacy-streamlit==1.0.2
-gdal==3.2.0.6
+gdal==1.5.0
+
+#gdal==3.2.0.6
 #pygdal==3.4.0.10
