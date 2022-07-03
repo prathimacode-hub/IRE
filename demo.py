@@ -1,5 +1,5 @@
 import numpy as np
-from osgeo import gdal
+#from osgeo import gdal
 import streamlit as st
 from matplotlib import pyplot as plt
 import pandas as pd
