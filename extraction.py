@@ -1,5 +1,5 @@
 import numpy as np
-from osgeo import gdal
+#from osgeo import gdal
 import pandas as pd
 
 def read_raster_file(my_file, lat, lon):
